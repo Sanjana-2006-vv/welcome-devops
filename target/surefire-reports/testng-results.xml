@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-11-12T00:27:30 IST" name="Surefire suite" finished-at="2026-11-12T00:27:30 IST" duration-ms="66">
+  <suite started-at="2026-11-12T01:00:37 IST" name="Surefire suite" finished-at="2026-11-12T01:00:42 IST" duration-ms="5642">
     <groups>
     </groups>
-    <test started-at="2026-11-12T00:27:30 IST" name="Surefire test" finished-at="2026-11-12T00:27:30 IST" duration-ms="66">
+    <test started-at="2026-11-12T01:00:37 IST" name="Surefire test" finished-at="2026-11-12T01:00:42 IST" duration-ms="5642">
       <class name="com.selenium.tests.WelcomeTest">
-        <test-method signature="welcomeMessageTest()[pri:0, instance:com.selenium.tests.WelcomeTest@58134517]" started-at="2026-11-12T00:27:30 IST" name="welcomeMessageTest" finished-at="2026-11-12T00:27:30 IST" duration-ms="12" status="PASS">
+        <test-method signature="welcomeMessageTest()[pri:0, instance:com.selenium.tests.WelcomeTest@7fe8ea47]" started-at="2026-11-12T01:00:37 IST" name="welcomeMessageTest" finished-at="2026-11-12T01:00:42 IST" duration-ms="5584" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- welcomeMessageTest -->
